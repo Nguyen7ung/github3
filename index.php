@@ -11,6 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <p>commit 1 from local</p>
-        <p>commit 2 from local</p>
+        <p>commit 2 from remote</p>
     </body>
 </html>
